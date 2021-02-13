@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-12T20:43:40.385-05:00
+  lastUpdatedAtString: 2021-02-12T20:44:27.133-05:00
   initializedAtString: 2021-02-12T20:35:56.571-05:00
   entries:
   - path: Library\gfu\cache\branches.yaml
@@ -61,12 +61,6 @@ MonoBehaviour:
   - path: Temp\workerlic
     fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Temp\workerlic
     projectPath: Temp\workerlic
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: UserSettings\EditorUserSettings.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\UserSettings\EditorUserSettings.asset
-    projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
