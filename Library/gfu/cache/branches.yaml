@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2021-02-12T20:41:47.658-05:00
+  initializedAtString: 2021-02-12T20:38:10.296-05:00
+  localBranches:
+  - name: main
+    tracking: origin/main
+  - name: master
+    tracking: 
+  - name: sarah
+    tracking: 
+  remoteBranches:
+  - name: origin/main
+    tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/Aavacado/CEN4090L-Capstone-Serja
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - main
+    - master
+    - sarah
+    values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/Aavacado/CEN4090L-Capstone-Serja
+      trackingBranch: main
+    - name: master
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: sarah
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - main
+      - master
+    subKeyValues:
+    - Values:
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/Aavacado/CEN4090L-Capstone-Serja
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/Aavacado/CEN4090L-Capstone-Serja
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/Aavacado/CEN4090L-Capstone-Serja
