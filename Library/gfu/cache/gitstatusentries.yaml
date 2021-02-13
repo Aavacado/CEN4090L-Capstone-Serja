@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-12T20:44:27.133-05:00
+  lastUpdatedAtString: 2021-02-12T20:49:21.239-05:00
   initializedAtString: 2021-02-12T20:35:56.571-05:00
   entries:
   - path: Library\gfu\cache\branches.yaml
@@ -43,6 +43,12 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
