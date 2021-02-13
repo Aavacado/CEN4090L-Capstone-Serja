@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-12T20:42:58.958-05:00
+  lastUpdatedAtString: 2021-02-12T20:43:40.385-05:00
   initializedAtString: 2021-02-12T20:35:56.571-05:00
   entries:
   - path: Library\gfu\cache\branches.yaml
@@ -22,156 +22,36 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\ApiUpdaterCheck.txt
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Logs\ApiUpdaterCheck.txt
-    projectPath: Logs\ApiUpdaterCheck.txt
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Logs\Packages-Update.log
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Logs\Packages-Update.log
-    projectPath: Logs\Packages-Update.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Packages\manifest.json
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Packages\manifest.json
-    projectPath: Packages\manifest.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Packages\packages-lock.json
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Packages\packages-lock.json
-    projectPath: Packages\packages-lock.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\AudioManager.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\AudioManager.asset
-    projectPath: ProjectSettings\AudioManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\ClusterInputManager.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\ClusterInputManager.asset
-    projectPath: ProjectSettings\ClusterInputManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\DynamicsManager.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\DynamicsManager.asset
-    projectPath: ProjectSettings\DynamicsManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\EditorSettings.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\EditorSettings.asset
-    projectPath: ProjectSettings\EditorSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\GraphicsSettings.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\GraphicsSettings.asset
-    projectPath: ProjectSettings\GraphicsSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\InputManager.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\InputManager.asset
-    projectPath: ProjectSettings\InputManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\NavMeshAreas.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\NavMeshAreas.asset
-    projectPath: ProjectSettings\NavMeshAreas.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\PackageManagerSettings.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\PackageManagerSettings.asset
-    projectPath: ProjectSettings\PackageManagerSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\Physics2DSettings.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\Physics2DSettings.asset
-    projectPath: ProjectSettings\Physics2DSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\PresetManager.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\PresetManager.asset
-    projectPath: ProjectSettings\PresetManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\ProjectSettings.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\ProjectSettings.asset
-    projectPath: ProjectSettings\ProjectSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\ProjectVersion.txt
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\TimeManager.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\TimeManager.asset
-    projectPath: ProjectSettings\TimeManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\VersionControlSettings.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\VersionControlSettings.asset
-    projectPath: ProjectSettings\VersionControlSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\VFXManager.asset
-    fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\ProjectSettings\VFXManager.asset
-    projectPath: ProjectSettings\VFXManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp\UnityLockfile
     fullPath: C:\Users\sarah\Documents\CEN4090L-Capstone-Serja-master\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
