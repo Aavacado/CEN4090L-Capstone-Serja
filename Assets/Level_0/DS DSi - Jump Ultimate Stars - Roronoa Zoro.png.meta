@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: c151756930373475885c36b9a0139e1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2066203393549426750
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_0
+  - first:
+      213: 514520052963865088
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_1
+  - first:
+      213: 5584875930884007649
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_2
+  - first:
+      213: -5861959698303356972
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_3
+  - first:
+      213: -3339717958283259473
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_4
+  - first:
+      213: 7864703445902407078
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_5
+  - first:
+      213: -482208620538650837
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_6
+  - first:
+      213: -2682749016137188386
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_7
+  - first:
+      213: -4675982077523918195
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_8
+  - first:
+      213: -5427953418616282793
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_9
+  - first:
+      213: -4119197042725346091
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_10
+  - first:
+      213: 2261809675583240192
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_11
+  - first:
+      213: -1080301289544035768
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_12
+  - first:
+      213: -8399910940653311851
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_13
+  - first:
+      213: 4805542188655017487
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_14
+  - first:
+      213: 5110019596032519055
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_15
+  - first:
+      213: -7341083170258926430
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_16
+  - first:
+      213: 7584890428079584557
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_17
+  - first:
+      213: -8054608317169836791
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_18
+  - first:
+      213: -6069876347128174451
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_19
+  - first:
+      213: 6703201817627552794
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_20
+  - first:
+      213: -2357001338301360698
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_21
+  - first:
+      213: -6847173940128388883
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_22
+  - first:
+      213: 4959679144825669295
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_23
+  - first:
+      213: -4298626490965672381
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_24
+  - first:
+      213: -2808687194825109433
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_25
+  - first:
+      213: 7768806548983124536
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_26
+  - first:
+      213: 5057472232788427100
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_27
+  - first:
+      213: -7625130940104678126
+    second: DS DSi - Jump Ultimate Stars - Roronoa Zoro_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1697
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30683a0a01acac10800000000000000
+      internalID: 2066203393549426750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1697
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002f9ba1341f32700800000000000000
+      internalID: 514520052963865088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1698
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e668f6b117718d40800000000000000
+      internalID: 5584875930884007649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1698
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe8fe56b226aea0800000000000000
+      internalID: -5861959698303356972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1697
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa198862630f6a1d0800000000000000
+      internalID: -3339717958283259473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_5
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1694
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5bdc47d1a052d60800000000000000
+      internalID: 7864703445902407078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_6
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1693
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f992180d9de49f0800000000000000
+      internalID: -482208620538650837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_7
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1694
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb3d9fcbf5f4cad0800000000000000
+      internalID: -2682749016137188386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_8
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1692
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82081d23139b1fb0800000000000000
+      internalID: -4675982077523918195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_9
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1693
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7516202df190ca4b0800000000000000
+      internalID: -5427953418616282793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1608
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d424843d1ca5d6c0800000000000000
+      internalID: -4119197042725346091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1607
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0083ea69aef836f10800000000000000
+      internalID: 2261809675583240192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1608
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842d45a63bff101f0800000000000000
+      internalID: -1080301289544035768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1608
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598217d01858d6b80800000000000000
+      internalID: -8399910940653311851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1608
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e7fe3e827b0b240800000000000000
+      internalID: 4805542188655017487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1608
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8badc0afbf6ae640800000000000000
+      internalID: 5110019596032519055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_16
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1606
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a44e1a50cb3f1a90800000000000000
+      internalID: -7341083170258926430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_17
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1605
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25b1f968a1f24960800000000000000
+      internalID: 7584890428079584557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_18
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1616
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d5f222968483090800000000000000
+      internalID: -8054608317169836791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_19
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1614
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8821e23f9773cba0800000000000000
+      internalID: -6069876347128174451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1521
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c617db98e860d50800000000000000
+      internalID: 6703201817627552794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1514
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55d6f45cf3a4fd0800000000000000
+      internalID: -2357001338301360698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 833
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8e55f4493f9f0a0800000000000000
+      internalID: -6847173940128388883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 841
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa64f3b97e154d440800000000000000
+      internalID: 4959679144825669295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 840
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e38e74bf53854c0800000000000000
+      internalID: -4298626490965672381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_25
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 835
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740d24b90e98509d0800000000000000
+      internalID: -2808687194825109433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 830
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8321ed8356850db60800000000000000
+      internalID: 7768806548983124536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_27
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 831
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5181c83330cf2640800000000000000
+      internalID: 5057472232788427100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Jump Ultimate Stars - Roronoa Zoro_28
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 837
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21568354fc71e2690800000000000000
+      internalID: -7625130940104678126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
